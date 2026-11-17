@@ -5,3 +5,8 @@ Android-App (APK) für Fahrer mit Wohnwagen oder Anhänger in Norwegen. Web-Vers
 Download: siehe [Releases](../../releases/latest).
 
 Hinweis: Svingen ist eine unverbindliche Planungshilfe. Es gelten immer die Angaben von Statens vegvesen und die Beschilderung vor Ort.
+
+## Lizenz / Copyright
+
+© 2026 Martin Geffe · Svingen – Alle Rechte vorbehalten.
+Proprietär, keine Weiterverwendung. Siehe [LICENSE](LICENSE).
